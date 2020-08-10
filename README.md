@@ -1,7 +1,7 @@
 ## goBarber
 
 
-### This is a application for clients it want appointment an hair cut end for barbers it want advertise your services!!!
+### This is a application for clients it want appointment an hair cut and for barbers it want advertise your services!!!
 
 ==============================================================================================================================
 
